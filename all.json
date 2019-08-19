@@ -1,0 +1,52 @@
+{
+    "all-the-icons": {
+	"name": "All The Icons",
+	"type": "Icon Font",
+	"link": "https://github.com/domtronn/all-the-icons.el#resource-fonts"
+    },
+    "envy-code-r": {
+	"name": "Envy Code R",
+	"type": "Monospaced",
+	"link": "https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released"
+    },
+    "geomanist": {
+	"name": "Geomanist",
+	"type": "Sans Serif",
+	"link": "http://atipofoundry.com/fonts/geomanist"
+    },
+    "inter": {
+	"name": "Inter",
+	"type": "Sans Serif",
+	"link": "https://rsms.me/inter"
+    },
+    "jost": {
+	"name": "Jost",
+	"type": "Sans Serif",
+	"link": "https://indestructibletype.com/Jost.html",
+    },
+    "klaxons": {
+	"name": "Klaxons",
+	"type": "Display",
+	"link": "https://www.behance.net/gallery/56079351/Klaxons-free-personal-and-commercial-font"
+    },
+    "metropolis": {
+	"name": "Metropolis",
+	"type": "Sans Serif",
+	"link": "https://github.com/chrismsimpson/Metropolis"
+    },
+    "metsys": {
+	"name": "Metsys",
+	"type": "Sans Serif, Display",
+	"link": "https://www.fontshop.com/families/metsys"
+    },
+    "pragmatapro": {
+	"name": "PragmataPro",
+	"type": "Monospaced",
+	"link": "https://www.fsd.it/shop/fonts/pragmatapro/"
+    }
+    "space-grotesk": {
+	"name": "Space Grotesk",
+	"type": "Sans Serif",
+	"link": "https://fonts.floriankarsten.com/space-grotesk"
+    }
+}
