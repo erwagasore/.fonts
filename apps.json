@@ -26,9 +26,5 @@
     "unsplash": {
 	"purpose": "Wallpapers",
 	"link": "https://unsplash.com/wallpapers/desktop/mac"	
-    },
-    "vanilla": {
-	"purpose": "Hide menubar",
-	"link": "https://matthewpalmer.net/vanilla"
-    },
+    }
 }
