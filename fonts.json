@@ -48,5 +48,10 @@
 	"name": "Space Grotesk",
 	"type": "Sans Serif",
 	"link": "https://fonts.floriankarsten.com/space-grotesk"
+    },
+    "manrope": {
+	"name": "Manrope",
+	"type": "Sans Serif",
+	"link": "https://www.behance.net/gallery/67424063/Manrope-Modern-Geometric-Sans-Serif-font-family"
     }
 }
