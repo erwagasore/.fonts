@@ -53,5 +53,10 @@
 	"name": "Manrope",
 	"type": "Sans Serif",
 	"link": "https://www.behance.net/gallery/67424063/Manrope-Modern-Geometric-Sans-Serif-font-family"
+    },
+    "poppins": {
+	"name": "Poppins",
+	"type": "Sans Serif",
+	"link": "https://www.indiantypefoundry.com/fonts/poppins"
     }
 }
